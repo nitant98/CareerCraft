@@ -1,8 +1,6 @@
-# Case Study 0: CareerCraft
+# CareerCraft
 
 Codelabs link: https://codelabs-preview.appspot.com/?file_id=1oJHXjsPaJrpPi6p-bKMCjUyD8ttRydT_i44QtFES74U#0
-
-
 
 Demo Link: https://www.youtube.com/watch?v=HLMzsBvEsG8 
 
